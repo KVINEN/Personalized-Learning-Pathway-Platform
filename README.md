@@ -27,34 +27,15 @@ This platform empowers learners to reach their educational goals by delivering c
 ## 📦 Project Structure
 
 personalized-learning-platform/
-├── frontend/                   # Angular frontend application
-│   ├── src/                   # Angular source files
-│   ├── angular.json           # Angular workspace config
-│   └── package.json           # Frontend dependencies
-│
-├── backend/                   # Ruby on Rails API backend
-│   ├── app/                   # MVC structure: models, controllers, views
-│   ├── config/                # Rails configuration
-│   ├── db/                    # Database migrations and seeds
-│   └── Gemfile                # Backend dependencies
-│
-├── ml-engine/                 # AI/ML logic using PyTorch
-│   ├── models/                # Model definitions
-│   ├── training/              # Training scripts
-│   ├── inference/             # Inference and serving scripts
-│   └── requirements.txt       # Python dependencies
-│
-├── k8s/                       # Kubernetes deployment manifests
-│   ├── frontend-deployment.yaml
-│   ├── backend-deployment.yaml
-│   ├── ml-engine-deployment.yaml
-│   └── services.yaml
-│
-├── docs/                      # Documentation, architecture diagrams, API specs
-│
-├── .gitignore
-├── README.md
-└── LICENSE
+
+├── frontend/                      
+├── backend/                            
+├── ml-engine/                
+├── k8s/                         
+├── docs/                   
+├── .gitignore              
+├── README.md               
+└── LICENSE 
 
 ## 🧠 AI/ML Overview
 
