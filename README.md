@@ -32,3 +32,22 @@ personalized-learning-platform/
 ├── ml-engine/ # PyTorch adaptive learning models
 ├── k8s/ # Kubernetes deployment configs
 └── docs/ # Documentation and API references
+
+## 🧠 AI/ML Overview
+
+The adaptive learning system uses reinforcement learning and learner analytics to:
+
+- Analyze performance across assessments
+- Adjust difficulty and content sequencing
+- Recommend supplementary materials in real-time
+
+## 🛠️ Installation
+
+### Prerequisites
+
+- Node.js & Angular CLI
+- Ruby 3.x & Rails 7.x
+- MySQL 8+
+- Python 3.9+ with PyTorch
+- Docker & Kubernetes CLI
+- GCP CLI (optional for deployment)
