@@ -23,3 +23,12 @@ This platform empowers learners to reach their educational goals by delivering c
 | Database    | MySQL                  |
 | AI/ML       | PyTorch                |
 | Deployment  | Kubernetes on GCP      |
+
+## 📦 Project Structure
+
+personalized-learning-platform/
+├── frontend/ # Angular application
+├── backend/ # Ruby on Rails API
+├── ml-engine/ # PyTorch adaptive learning models
+├── k8s/ # Kubernetes deployment configs
+└── docs/ # Documentation and API references
