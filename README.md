@@ -1,4 +1,4 @@
-# Personalized_Learning_Pathway_Platform
+# Personalized Learning Pathway Platform
 
 A scalable, AI-driven educational platform that curates personalized learning journeys using adaptive algorithms to tailor content and pacing to each user's unique learning style and progress.
 
